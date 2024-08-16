@@ -1,8 +1,7 @@
-# React + Vite
+# Weirdo's BBQ
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A customer's site for some of the best BBQ in Central Texas.
 
-Currently, two official plugins are available:
+Simple React/Vite, CSS, HTML site with grid menus and admin access for frequent owner updates
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Plenty of character here. Definitely weird. My specialty.
